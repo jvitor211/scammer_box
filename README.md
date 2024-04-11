@@ -1,4 +1,7 @@
-![Logo](https://i.imgur.com/gSxmkj0.png)
+<p align="center">
+  <img src="https://i.imgur.com/gSxmkj0.png" alt="Logo">
+</p>
+
 
 # Digital Scammer Methods Collection
 
