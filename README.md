@@ -1,4 +1,4 @@
-[Logo](https://i.imgur.com/g0N7w76.png)
+[Logo](https://i.imgur.com/gSxmkj0.png)
 
 # Digital Scammer Methods Collection
 
